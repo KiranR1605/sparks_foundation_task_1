@@ -8,9 +8,15 @@ In this task it is required to predict the percentage of a student on the basis 
 
 Steps:
 Step 1 - Importing the dataset
+
 Step 2 - Visualizing the dataset
+
 Step 3 - Data preparation
+
 Step 4 - Training the algorithm
+
 Step 5 - Visualizing the model
+
 Step 6 - Making predcitions
+
 Step 7 - Evaluating the model
